@@ -1,0 +1,28 @@
+_repo: Division-of-Words--13-Rules-for-the-Division-of-Words-at-the-Ends-of-Lines-with-Remarks-on-Sp__17016
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Hamilton, Frederick W. (Frederick William)
+    alias: Hamilton, Frederick William
+    birthdate: 1860
+    deathdate: 1940
+    gutenberg_agent_id: '7092'
+    url: http://www.gutenberg.org/2009/agents/7092
+description: ''
+gutenberg_issued: '2005-11-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '17016'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'Z'
+- !lcsh 'English language -- Syllabication'
+title: "Division of Words\r\nRules for the Division of Words at the Ends of Lines,\
+  \ with Remarks on Spelling, Syllabication and Pronunciation"
+url: http://www.gutenberg.org/ebooks/17016
